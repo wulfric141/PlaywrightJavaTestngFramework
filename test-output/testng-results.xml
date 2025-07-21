@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-21T17:51:17 IST" name="Automation suite" finished-at="2025-07-21T17:51:26 IST" duration-ms="9336">
+    <groups>
+    </groups>
+    <test started-at="2025-07-21T17:51:17 IST" name="Test in Chrome" finished-at="2025-07-21T17:51:26 IST" duration-ms="9336">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@3a4621bd]" started-at="2025-07-21T17:51:17 IST" name="setup" finished-at="2025-07-21T17:51:25 IST" duration-ms="7599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageNavigationTest()[pri:1, instance:tests.LoginTest@3a4621bd]" started-at="2025-07-21T17:51:25 IST" name="loginPageNavigationTest" finished-at="2025-07-21T17:51:25 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageNavigationTest -->
+        <test-method signature="verifyLoginSuccessfull()[pri:2, instance:tests.LoginTest@3a4621bd]" started-at="2025-07-21T17:51:25 IST" name="verifyLoginSuccessfull" finished-at="2025-07-21T17:51:25 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginSuccessfull -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3a4621bd]" started-at="2025-07-21T17:51:26 IST" name="tearDown" finished-at="2025-07-21T17:51:26 IST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test in Chrome -->
+  </suite> <!-- Automation suite -->
+</testng-results>
